@@ -1,0 +1,41 @@
+{
+  "name": "social",
+  "description": "social 서비스 데이타 관련 라이브러리",
+  "version": "0.8.18",
+  "private": false,
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  },
+  "dependencies": {
+    "mongoose": "~3.8.3",
+    "lodash": "~2.4.1",
+    "fb": "~0.7.0",
+    "async": "~0.9.0",
+    "twitter":"~0.2.9",
+    "step":"~0.0.5",
+    "squel":"~3.4.1",
+    "moment":"~2.7.0",
+    "winston":"~0.7.3",
+    "redis":"~0.10.3",
+    "colors":"~0.6.2",
+    "ntwitter":"~0.5.0",
+    "request": "~2.36.0",
+    "oauth":"~0.9.12",
+    "mongoosastic":"~0.2.6",
+    "googleapis":"~1.0.10",
+    "sprintf":"~0.1.3",
+    "amqplib":"~0.2.1",
+    "when":"3.4.2",
+    "node-twitter-api": "~1.2.3",
+    "agenda": "~0.6.17",
+    "optimist":"~0.6.1",
+    "restler": "3.2.2",
+    "xml2js": "~0.4.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-jshint": "^1.5.5",
+    "jshint-stylish": "^0.2.0"
+  }
+}
