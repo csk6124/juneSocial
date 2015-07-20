@@ -58,6 +58,3 @@ https://console.developers.google.com/project/apps~operating-tiger-515/apiui/api
 google + : feed, 댓글, youtube, comments, people, search등을 제공해준다. 
 
 ```
-
-저작권 
-csk6124@gmail.com
